@@ -62,8 +62,4 @@ python detection.py
 
 ---
 
-### **Danh mục nộp bài**
 
-- Tệp mã nguồn nén (.zip) – Bao gồm main.py, utils.py, v.v.
-- README.md – Hướng dẫn cách chạy và tóm tắt nội dung bài tập
-- (Tuỳ chọn) Video kết quả hoặc ảnh chụp màn hình kết quả phân tích
