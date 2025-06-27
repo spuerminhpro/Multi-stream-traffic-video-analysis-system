@@ -1,4 +1,4 @@
-# ORBRO - Hệ thống phân tích video giao thông đa luồng
+# Hệ thống phân tích video giao thông đa luồng
 
 ## Mô tả chức năng
 - Phân tích đồng thời nhiều video CCTV trong một thư mục.
